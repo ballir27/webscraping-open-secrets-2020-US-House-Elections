@@ -152,7 +152,6 @@ Jaimie Kulikowski,3rd Party,Colorado,6,No,No,0.9,72293,110645
 Ed Perlmutter,Democrat,Colorado,7,Yes,Yes,59.1,1632262,1339482
 Casper Stockham,Republican,Colorado,7,No,No,37.6,147872,147872
 Anthony Malgieri,Independent,Colorado,7,No,No,,1930,1958
-Yadira Caraveo,Democrat,Colorado,8,Yes,Yes,,783466,175581
 John Larson,Democrat,Connecticut,1,Yes,Yes,63.7,1377238,1323690
 Mary Fay,Republican,Connecticut,1,No,No,35.0,26836,25118
 Joe Courtney,Democrat,Connecticut,2,Yes,Yes,59.4,964731,999360
@@ -227,7 +226,6 @@ Carlos Gimenez,Republican,Florida,26,No,Yes,51.7,2226559,2187389
 Donna Shalala,Democrat,Florida,27,Yes,No,48.6,3842907,3735966
 Maria Salazar,Republican,Florida,27,No,Yes,51.4,3654190,3645814
 Frank Polo,Independent,Florida,27,No,No,,4606,4662
-Carlos Gimenez,Republican,Florida,28,Yes,Yes,,442015,271601
 Buddy Carter,Republican,Georgia,1,Yes,Yes,58.4,2315487,1734754
 Joyce Griggs,Democrat,Georgia,1,No,No,41.7,130043,125000
 Sanford Bishop,Democrat,Georgia,2,Yes,Yes,59.1,1540683,1440571
@@ -357,13 +355,13 @@ Robert Jon Anderson,Democrat,Louisiana,3,No,No,11.6,63617,48015
 Braylon Harris,Democrat,Louisiana,3,No,No,17.9,23006,15130
 Mike Johnson,Republican,Louisiana,4,Yes,Yes,60.4,1299787,1039393
 Kenny Houston,Democrat,Louisiana,4,No,No,25.5,33677,33407
-Luke Letlow,Republican,Louisiana,5,No,No,,1392822,1303757
-Lance Harris,Republican,Louisiana,5,No,No,,696805,687833
-Martin Lemelle,Democrat,Louisiana,5,No,No,,173796,162747
-Scotty Robinson,Republican,Louisiana,5,No,No,,113903,113835
-Candy Christophe,Democrat,Louisiana,5,No,No,,77101,131161
-Phillip Snowden,Democrat,Louisiana,5,No,No,,29481,28077
-Matthew Hasty,Republican,Louisiana,5,No,No,,2654,2615
+Luke Letlow,Republican,Louisiana,5,No,,,1392822,1303757
+Lance Harris,Republican,Louisiana,5,No,,,696805,687833
+Martin Lemelle,Democrat,Louisiana,5,No,,,173796,162747
+Scotty Robinson,Republican,Louisiana,5,No,,,113903,113835
+Candy Christophe,Democrat,Louisiana,5,No,,,77101,131161
+Phillip Snowden,Democrat,Louisiana,5,No,,,29481,28077
+Matthew Hasty,Republican,Louisiana,5,No,,,2654,2615
 Garret Graves,Republican,Louisiana,6,Yes,Yes,71.1,1743015,1200287
 Dartanyon Williams,Democrat,Louisiana,6,No,No,25.6,111316,98114
 Chellie Pingree,Democrat,Maine,1,Yes,Yes,61.5,487080,264790
@@ -466,8 +464,6 @@ Jason Smith,Republican,Missouri,8,Yes,Yes,76.9,1900227,1514786
 Kathryn Ellis,Democrat,Missouri,8,No,No,21.4,302428,305387
 Kathleen Williams,Democrat,Montana,1,No,No,43.6,6201758,6232286
 Matt Rosendale,Republican,Montana,1,No,Yes,56.4,3674706,3488045
-Matt Rosendale,Republican,Montana,2,Yes,No,,900359,378226
-Kevin Hamm,Democrat,Montana,2,No,No,,19252,17677
 Jeff Fortenberry,Republican,Nebraska,1,Yes,Yes,59.5,1472816,2458330
 Kate Bolz,Democrat,Nebraska,1,No,No,37.7,1143509,1140371
 Don Bacon,Republican,Nebraska,2,Yes,Yes,50.6,3749272,3713961
@@ -559,8 +555,8 @@ Paul Tonko,Democrat,New York,20,Yes,Yes,56.5,1541984,1418994
 Elizabeth Joy,Republican,New York,20,No,No,43.4,370852,336845
 Elise Stefanik,Republican,New York,21,Yes,Yes,64.4,13287248,11655936
 Tedra Cobb,Democrat,New York,21,No,No,35.6,5586793,5593266
-Anthony Brindisi,Democrat,New York,22,Yes,No,,6020190,5772429
-Claudia Tenney,Republican,New York,22,No,No,,3051777,2725893
+Anthony Brindisi,Democrat,New York,22,Yes,,,6020190,5772429
+Claudia Tenney,Republican,New York,22,No,,,3051777,2725893
 Tom Reed,Republican,New York,23,Yes,Yes,57.7,3275177,3145027
 Tracy Mitrano,Democrat,New York,23,No,No,41.4,1450322,1466128
 John Katko,Republican,New York,24,Yes,Yes,53.1,3821107,3597234
@@ -595,7 +591,6 @@ Alma Adams,Democrat,North Carolina,12,Yes,Yes,100.0,824124,651883
 Bill Brewster,Republican,North Carolina,12,No,No,,21950,16763
 Ted Budd,Republican,North Carolina,13,Yes,Yes,68.2,2294174,1293414
 Scott Huffman,Democrat,North Carolina,13,No,No,31.8,193334,189967
-Jeff Jackson,Democrat,North Carolina,14,Yes,Yes,,753314,126486
 Kelly Armstrong,Republican,North Dakota,1,Yes,Yes,69.0,1269346,1080105
 Zach Raknerud,Democrat,North Dakota,1,No,No,27.6,28047,26029
 Steve Chabot,Republican,Ohio,1,Yes,Yes,51.8,3177647,2861464
@@ -650,7 +645,6 @@ Peter DeFazio,Democrat,Oregon,4,Yes,Yes,51.6,5182843,5781074
 Alek Skarlatos,Republican,Oregon,4,No,No,46.2,5454621,5331264
 Kurt Schrader,Democrat,Oregon,5,Yes,Yes,51.9,2018692,1922073
 Amy Ryan Courser,Republican,Oregon,5,No,No,45.2,231624,221041
-Andrea Salinas,Democrat,Oregon,6,Yes,Yes,,629276,147520
 Brian Fitzpatrick,Republican,Pennsylvania,1,Yes,Yes,58.7,4203825,4272135
 Christina Finello,Democrat,Pennsylvania,1,No,No,41.3,2336814,2329748
 Brendan Boyle,Democrat,Pennsylvania,2,Yes,Yes,65.1,1556650,756317
@@ -805,9 +799,6 @@ Jennifer Sharon,Republican,Texas,35,No,No,30.0,19011,14442
 Jason Mata,Independent,Texas,35,No,No,1.9,2632,2632
 Brian Babin,Republican,Texas,36,Yes,Yes,73.6,1345351,1297185
 Brandon Rashad Lewis,Democrat,Texas,36,No,No,24.3,21714,12278
-Lloyd Doggett,Democrat,Texas,37,Yes,Yes,,186971,131591
-Wesley Hunt,Republican,Texas,38,Yes,No,,503400,336728
-Melissa McDonough,Democrat,Texas,38,No,No,,25855,24256
 Blake Moore,Republican,Utah,1,No,Yes,69.6,844377,816015
 Darren Parry,Democrat,Utah,1,No,No,30.5,41218,40904
 Chris Stewart,Republican,Utah,2,Yes,Yes,59.0,835139,812462
