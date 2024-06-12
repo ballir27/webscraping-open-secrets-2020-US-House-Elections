@@ -37,3 +37,5 @@ After fitting your model, interpret the meaning of the coefficients you get.
 Prepare a 10-12 minute presentation of your findings. This presentation should focus on the exploratory analysis and statistical modeling portions of this project and not on the webscraping components. Thus, you should not include any code in your presenation. Your presentation should be done using PowerPoint/Google Slides or other presentation software.
 
 Presentations will take place on Saturday, 10/21 at noon.
+
+This was a group project that I worked on with Ndidi Obi and Jeff Davis
